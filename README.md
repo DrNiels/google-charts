@@ -1,3 +1,5 @@
+These are some minor adjustments to the google-charts element from mmathias01 (https://github.com/mmathias01/google-charts), trying to get it working with Polymer 3. The readme was not updated and is still the one from the original google-charts element!
+
 # google-charts
 
 [![NPM](https://nodei.co/npm/google-charts.png?downloads=true&downloadRank=true)](https://npmjs.org/package/google-charts)
